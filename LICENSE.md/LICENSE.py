@@ -7,5 +7,4 @@ num2 = 6.3
 sum = float(num1) + float(num2)
 
 # Display the sum
-print("The sum of (num1) + (num2) is :")
-#jada-k
+print(" The sum of (num1) + (num2) is : ")
